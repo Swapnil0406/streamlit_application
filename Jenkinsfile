@@ -9,6 +9,6 @@ pipeline {
                    git 'https://github.com/Swapnil0406/streamlit_application.git'
                 }
             }
-        
+          }
         }
  }
